@@ -1,5 +1,3 @@
-# --- ecnecsenimul zsh config  ---
-
 bindkey -s "^[OM" "^M"
 
 # fpath+=$HOME/.zsh/pure
